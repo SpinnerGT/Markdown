@@ -1,0 +1,206 @@
+{
+  "workspaces": {
+    "图谱+标题": {
+      "main": {
+        "id": "c93869ad0290f5a0",
+        "type": "split",
+        "children": [
+          {
+            "id": "04c2c104bb7ce182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python学习手册/def语句.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c34a8f6fe66f1008",
+        "type": "split",
+        "children": [
+          {
+            "id": "769a0548b239ccd2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "346eb77935df6725",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5e1c9d93a853fead",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "*",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "81fdbe2185672296",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "99fcacda461178cf",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4877c6aeebafa7a2",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 218,
+        "collapsed": true
+      },
+      "right": {
+        "id": "334e134842157f0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "89a19ad6f596a3d8",
+            "type": "tabs",
+            "dimension": 75.93261131167269,
+            "children": [
+              {
+                "id": "939c8c3ef9f31e77",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "python学习手册/def语句.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1.89471507352941,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.279227941176471,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 75,
+                      "scale": 2.401655604298615,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0a77682735b0d08d",
+            "type": "tabs",
+            "dimension": 24.067388688327316,
+            "children": [
+              {
+                "id": "f0af7867dfbff8cf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "python学习手册/def语句.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "ae002288d3bbe78a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a33e7395742f36ef",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "python学习手册/def语句.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "046a12470cd5b063",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "38c8e6834af76f18",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "python学习手册/def语句.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 679
+      },
+      "active": "04c2c104bb7ce182"
+    }
+  },
+  "active": "图谱+标题"
+}

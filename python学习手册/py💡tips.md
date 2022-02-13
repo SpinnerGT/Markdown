@@ -1,0 +1,3 @@
+```query
+tag:#py💡tips
+```

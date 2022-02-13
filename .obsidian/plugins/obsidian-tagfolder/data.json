@@ -1,0 +1,12 @@
+{
+  "displayMethod": "NAME",
+  "alwaysOpen": true,
+  "ignoreDocTags": "",
+  "ignoreTags": "",
+  "hideOnRootTags": "",
+  "sortType": "DISPNAME_ASC",
+  "sortTypeTag": "NAME_ASC",
+  "expandLimit": 2,
+  "disableNestedTags": false,
+  "hideItems": "DEDICATED_INTERMIDIATES"
+}

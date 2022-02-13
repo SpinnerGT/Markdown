@@ -1,0 +1,16 @@
+/*
+![](https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-change-shape.jpg)
+
+The script allows you to change the shape of selected Rectangles, Diamonds and Ellipses. 
+
+```javascript
+*/
+const shapesDispaly=["○ ellipse","□ rectangle","◇ diamond"];
+const shapes=["ellipse","rectangle","diamond"];
+elements = ea.getViewSelectedElements().filter(el=>shapes.contains(el.type));
+newShape = await utils.suggester(shapesDispaly, shapes);
+if(!newShape) return;
+
+elements.forEach(el=>el.type = newShape);
+ea.copyViewElementsToEAforEditing(elements);
+ea.addElementsToView();

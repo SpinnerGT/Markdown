@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c93869ad0290f5a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e81373cca88167",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "使用手册/快捷键.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c34a8f6fe66f1008",
+    "type": "split",
+    "children": [
+      {
+        "id": "769a0548b239ccd2",
+        "type": "tabs",
+        "dimension": 59.68712394705174,
+        "children": [
+          {
+            "id": "346eb77935df6725",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e1c9d93a853fead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#python/参数",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81fdbe2185672296",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "99fcacda461178cf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b99bf2eac1ff1ee",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "ec9dbf2a86e7e0fe",
+        "type": "tabs",
+        "dimension": 40.312876052948255,
+        "children": [
+          {
+            "id": "77ca75070ef2ac1e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "right": {
+    "id": "334e134842157f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a77682735b0d08d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0af7867dfbff8cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "使用手册/快捷键.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ae002288d3bbe78a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a33e7395742f36ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "使用手册/快捷键.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "046a12470cd5b063",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38c8e6834af76f18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "使用手册/快捷键.md"
+              }
+            }
+          },
+          {
+            "id": "3bba7fd803820fae",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "071c6ba8b589d20b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "50f1da90194daaeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1491c7d99935afb",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 442
+  },
+  "active": "65e81373cca88167",
+  "lastOpenFiles": [
+    "使用手册/快捷键.md",
+    "使用手册/obsidian快捷键.md",
+    "iCloud/Notes/编弹.md",
+    "iCloud/Notes/images/编弹.png",
+    "html-css-js/HTML基本结构.md",
+    "attachments/Pasted image 20220206101706.png",
+    "html-css-js/目录.md",
+    "python学习手册/python学习手册.md",
+    "日记/2022-02-04.md",
+    "草稿箱/查询.md"
+  ]
+}

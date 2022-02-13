@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "smartIndentList": true,
+  "useMarkdownLinks": false,
+  "fileSortOrder": "byCreatedTime",
+  "communityPluginSortOrder": "download",
+  "readableLineLength": false
+}
