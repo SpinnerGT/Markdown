@@ -11,7 +11,7 @@
   "showFrontmatter": false,
   "smartIndentList": true,
   "useMarkdownLinks": false,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "alphabetical",
   "communityPluginSortOrder": "download",
-  "readableLineLength": false
+  "readableLineLength": true
 }

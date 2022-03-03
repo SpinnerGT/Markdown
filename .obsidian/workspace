@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "65e81373cca88167",
+        "id": "2fb7014619130db0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "使用手册/快捷键.md",
+            "file": "python/home.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python/参数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -68,15 +68,14 @@
             }
           },
           {
-            "id": "1b99bf2eac1ff1ee",
+            "id": "7a53a8006632c072",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "ec9dbf2a86e7e0fe",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用手册/快捷键.md",
+                "file": "python/home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用手册/快捷键.md",
+                "file": "python/home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,58 +158,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用手册/快捷键.md"
+                "file": "python/home.md"
               }
-            }
-          },
-          {
-            "id": "3bba7fd803820fae",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "071c6ba8b589d20b",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "50f1da90194daaeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e1491c7d99935afb",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 442
+    "width": 216
   },
-  "active": "65e81373cca88167",
+  "active": "2fb7014619130db0",
   "lastOpenFiles": [
-    "使用手册/快捷键.md",
-    "使用手册/obsidian快捷键.md",
-    "iCloud/Notes/编弹.md",
-    "iCloud/Notes/images/编弹.png",
-    "html-css-js/HTML基本结构.md",
-    "attachments/Pasted image 20220206101706.png",
-    "html-css-js/目录.md",
+    "python/home.md",
     "python学习手册/python学习手册.md",
-    "日记/2022-02-04.md",
-    "草稿箱/查询.md"
+    "html-css-js/css/css引入方式.md",
+    "html-css-js/css/100css-home.md",
+    "html-css-js/html/内嵌框架iframe.md",
+    "html-css-js/000html-home.md",
+    "html-css-js/html/表单.md",
+    "html-css-js/html/option.md",
+    "001-Templates/metadate模板.md",
+    "html-css-js/html/select.md"
   ]
 }

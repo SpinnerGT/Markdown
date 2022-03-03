@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "home",
+      "path": "python/home.md"
+    },
+    {
+      "basename": "python学习手册",
+      "path": "python学习手册/python学习手册.md"
+    },
+    {
+      "basename": "css引入方式",
+      "path": "html-css-js/css/css引入方式.md"
+    },
+    {
+      "basename": "100css-home",
+      "path": "html-css-js/css/100css-home.md"
+    },
+    {
+      "basename": "内嵌框架iframe",
+      "path": "html-css-js/html/内嵌框架iframe.md"
+    },
+    {
+      "basename": "000html-home",
+      "path": "html-css-js/000html-home.md"
+    },
+    {
+      "basename": "表单",
+      "path": "html-css-js/html/表单.md"
+    },
+    {
+      "basename": "option",
+      "path": "html-css-js/html/option.md"
+    },
+    {
+      "basename": "metadate模板",
+      "path": "001-Templates/metadate模板.md"
+    },
+    {
+      "basename": "select",
+      "path": "html-css-js/html/select.md"
+    },
+    {
+      "basename": "文件上传",
+      "path": "html-css-js/html/文件上传.md"
+    },
+    {
+      "basename": "超链接",
+      "path": "html-css-js/html/超链接.md"
+    },
+    {
+      "basename": "按钮button",
+      "path": "html-css-js/html/按钮button.md"
+    },
+    {
+      "basename": "复选框",
+      "path": "html-css-js/html/复选框.md"
+    },
+    {
+      "basename": "单选框",
+      "path": "html-css-js/html/单选框.md"
+    },
+    {
+      "basename": "name属性",
+      "path": "html-css-js/html/name属性.md"
+    },
+    {
+      "basename": "密码文本框",
+      "path": "html-css-js/html/密码文本框.md"
+    },
+    {
+      "basename": "单行文本框text",
+      "path": "html-css-js/html/单行文本框text.md"
+    },
+    {
+      "basename": "post与get",
+      "path": "html-css-js/html/post与get.md"
+    },
+    {
+      "basename": "jpg",
+      "path": "html-css-js/html/jpg.md"
+    },
+    {
+      "basename": "Pasted image 20220214185401",
+      "path": "attachments/Pasted image 20220214185401.png"
+    },
+    {
+      "basename": "gif",
+      "path": "html-css-js/html/gif.md"
+    },
+    {
+      "basename": "图片",
+      "path": "html-css-js/html/图片.md"
+    },
+    {
+      "basename": "png",
+      "path": "html-css-js/html/png.md"
+    },
+    {
+      "basename": "HTML基本结构",
+      "path": "html-css-js/HTML基本结构.md"
+    },
+    {
+      "basename": "目录",
+      "path": "html-css-js/目录.md"
+    },
+    {
+      "basename": "jupyter代码",
+      "path": "001-Templates/jupyter代码.md"
+    },
+    {
+      "basename": "preCode",
+      "path": "001-Templates/preCode.md"
+    },
+    {
       "basename": "快捷键",
       "path": "使用手册/快捷键.md"
     },
@@ -9,20 +121,8 @@
       "path": "使用手册/obsidian快捷键.md"
     },
     {
-      "basename": "HTML基本结构",
-      "path": "html-css-js/HTML基本结构.md"
-    },
-    {
       "basename": "Pasted image 20220206101706",
       "path": "attachments/Pasted image 20220206101706.png"
-    },
-    {
-      "basename": "目录",
-      "path": "html-css-js/目录.md"
-    },
-    {
-      "basename": "python学习手册",
-      "path": "python学习手册/python学习手册.md"
     },
     {
       "basename": "2022-02-04",
@@ -47,18 +147,6 @@
     {
       "basename": "overview",
       "path": "使用手册/dataview/overview.md"
-    },
-    {
-      "basename": "metadate模板",
-      "path": "001-Templates/metadate模板.md"
-    },
-    {
-      "basename": "jupyter代码",
-      "path": "001-Templates/jupyter代码.md"
-    },
-    {
-      "basename": "preCode",
-      "path": "001-Templates/preCode.md"
     },
     {
       "basename": "使用手册",

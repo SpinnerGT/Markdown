@@ -1,6 +1,6 @@
 {
   "renderAll": true,
-  "cm6RenderAll": false,
+  "cm6RenderAll": true,
   "renderImages": true,
   "renderPDF": true,
   "renderIframe": true,
